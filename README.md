@@ -1,9 +1,8 @@
-#Operators used 
+#overloaded operators
 
-overloaded operators
-==
-- (lowecase)
-+
+"=="
+"-(lowecase)"
+"+"
 !=
 >
 <
@@ -13,4 +12,3 @@ overloaded operators
 --
 +=
 *=
-
